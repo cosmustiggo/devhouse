@@ -1,3 +1,4 @@
+<b>PT-BR: <br>
 Imobiliária Fictícia DevHouse - Projeto TailwindCSS 🏡
 
 Sobre o Projeto 🚀 <br>
@@ -16,5 +17,26 @@ Agradeço ao @SujeitoProgramador pelo excelente curso de TailwindCSS que tornou 
 Divirta-se explorando a DevHouse! 🏠✨
 
 Link do Projeto: https://devhouseshop.netlify.app/#
+---------------------------------------
+<b>EN-US: <br>
+
+
+DevHouse - TailwindCSS Project 🏡
+About the Project 🚀 <br>
+DevHouse is a fictional platform simulating a real estate website, providing an intuitive and modern user experience. The entire layout and design were exclusively built using TailwindCSS, leveraging its utility classes to create a fully responsive website.
+
+Features 🛠️ <br>
+- Responsive Layout: Enjoy a consistent experience across different devices, from desktops to smartphones.
+- Custom Styling: TailwindCSS's unique styling was applied to ensure an attractive and modern appearance.
+
+How to Contribute 🤝 <br>
+If you are learning TailwindCSS or would like to contribute to enhancing this fictional project, feel free to make your suggestions. Every contribution is welcome!
+
+Acknowledgments 🙌 <br>
+Thanks to @SujeitoProgramador for the excellent TailwindCSS course that made the creation of this project possible. Their guidance and knowledge were crucial for the development of this fictional application.
+
+Enjoy exploring DevHouse! 🏠✨ <br>
+
+Project Link: https://devhouseshop.netlify.app/#
 
 ![Multi Devices Mockup Scene Vol01 (1)](https://github.com/cosmustiggo/devhouse/assets/133362453/a54026af-302c-4ea4-b9be-4983d2203a8c)
